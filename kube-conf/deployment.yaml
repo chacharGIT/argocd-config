@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: node-app
-        image: chachardockerhub/general:aaaa2
+        image: chachardockerhub/general:2a4593f
         ports:
         - containerPort: 8080
 
